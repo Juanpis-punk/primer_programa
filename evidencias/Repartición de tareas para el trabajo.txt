@@ -1,0 +1,7 @@
+Repartición de tareas para el trabajo
+
+Jose: Presentación para el tema escogido
+Luis: Consulta sobre el funcionamiento de Git (Información necesaria para la presentación) y escritura del README.md
+Juanpis: Presentación del flujo de trabajo 
+
+Todos hacen aportes (commits) al repositorio y al código de HolaMundo.java
