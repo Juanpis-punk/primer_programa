@@ -19,7 +19,7 @@ Aplicación sencilla desarrollada en Java que solicita el nombre del usuario med
 ¿Cuál es tu nombre?:
 ```
 
-### Ventanas emergente
+### Ventanas emergentes
 
 ```text
 Hola mundo.
@@ -104,7 +104,7 @@ Bienvenido: (nombre)
 
 ##  Autores
 
-Desarrollado para Lógica de Programación UPB Segundo Semestre por Luis Monsalve, José Estrada y Juan Pablo Ortiz utilizando `Scanner` y `JOptionPane` dentro de *Java*.
+Desarrollado para Lógica de Programación UPB Segundo Semestre por Luis Monsalve, José Estrada y Juan Pablo Ortiz, utilizando `Scanner` y `JOptionPane` dentro de *Java*.
 
 ---
 
