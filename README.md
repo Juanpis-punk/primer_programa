@@ -1,6 +1,6 @@
 # HolaMundo
 
-Aplicación sencilla desarrollada en Java que solicita el nombre del usuario mediante la consola y posteriormente muestra un mensaje de bienvenida utilizando una ventana emergente con JOptionPane.
+Aplicación sencilla desarrollada en Java que solicita el nombre del usuario mediante la consola y posteriormente muestra mensajes de bienvenida utilizando una ventana emergente con JOptionPane.
 
 ## Características
 
@@ -11,7 +11,7 @@ Aplicación sencilla desarrollada en Java que solicita el nombre del usuario med
 
 ##  Ejemplo de ejecución
 
-(Poner captura xfa)
+![Ejemplo](evidencias/Funcionando_1.png)
 
 ### Consola
 
