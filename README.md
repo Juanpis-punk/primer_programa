@@ -108,7 +108,7 @@ Desarrollado para Lógica de Programación UPB Segundo Semestre por Luis Monsalv
 
 ---
 
-##Referencias
+## Referencias
 1. https://www.atlassian.com/es/git/tutorials/what-is-git
 2. https://claude.ai/new
 
