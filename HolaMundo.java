@@ -10,9 +10,8 @@ public class HolaMundo {
         String nombre = sc.nextLine(); // Guardar el nombre ingresado por el usuario
 
         JOptionPane.showMessageDialog(null, "Hola mundo."); // Mostrar mensaje de bienvenida por la interfaz gráfica de JOptionPane
-
-        
-        JOptionPane.showMessageDialog(null, "Bienvenido:" + nombre); //Mensaje personalizado con el nombre del usuario
+        JOptionPane.showMessageDialog(null, "Somos Luis, Jose y Juanpis, estudiantes de lógica de programación"); // Mensaje de presntación del equipo
+        JOptionPane.showMessageDialog(null, "Bienvenido: " + nombre); //Mensaje personalizado con el nombre del usuario
 
 
 
