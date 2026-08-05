@@ -13,6 +13,7 @@ public class HolaMundo {
         JOptionPane.showMessageDialog(null, "Somos Luis, Jose y Juanpis, estudiantes de lógica de programación"); // Mensaje de presntación del equipo
         JOptionPane.showMessageDialog(null, "Bienvenido: " + nombre); //Mensaje personalizado con el nombre del usuario
 
+        
 
 
 
