@@ -11,6 +11,9 @@ public class HolaMundo {
 
         JOptionPane.showMessageDialog(null, "Hola mundo.");
 
+        
+        JOptionPane.showMessageDialog(null, "Bienvenido:" + nombre);
+
 
 
 
